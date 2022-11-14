@@ -70,7 +70,7 @@ const rawAllCountries = [
     ['america', 'south-america'],
     'ar',
     '54',
-    '+.. (..) ........',
+    '+.. (...) ........',
   ],
   [
     'Armenia',
